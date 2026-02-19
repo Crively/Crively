@@ -1,8 +1,7 @@
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,linux,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,c,java,androidstudio,docker)](https://skillicons.dev)
 
-## 💼 Desenvolvendo em repositórios privados
-💡 Contribuições ativas em projetos privados
+## 💼 Desenvolvendo em repositórios para portfólio
 
 # 📞 Contact:
 <div> 
