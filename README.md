@@ -1,5 +1,5 @@
 # 💻 Tech Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,c,java,androidstudio,docker,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,py,c,cs,java,androidstudio,docker,mysql)](https://skillicons.dev)
 
 ## 💼 Desenvolvendo em repositórios para portfólio
 
