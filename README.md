@@ -30,7 +30,7 @@
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
 | [🎥 YouTube Gesture Control](https://github.com/Crively/YoutubeGestureControl-python) | Python, OpenCV, MediaPipe | Controle o YouTube com gestos das mãos |
-| [✂️ CorteEmDia App](https://github.com/Crively/corte-em-dia-app) | React Native, Firebase | App de agendamento para barbearias |
+| [✂️ CorteEmDia App](https://github.com/Crively/corte-em-dia-app) | React Native, ExpoGo | App de agendamento para barbearias |
 | [🏥 Sistema de Filas](https://github.com/Crively/Sistema-de-fila-c) | C, Estruturas de Dados | Gerenciamento de filas com prioridade |
 | [🏦 Banco Java](https://github.com/Crively/Banco-java) | Java, POO | Simulação de sistema bancário |
 
