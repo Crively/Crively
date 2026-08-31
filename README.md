@@ -8,7 +8,7 @@
 ---
 
 # 💻 Tech Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,py,c,c++,cs,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,py,c,cpp,cs,dotnet,java,mysql)](https://skillicons.dev)
 
 ## 📌 Projetos em Destaque
 
