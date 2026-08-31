@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/felipe-crivelli-)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Crively)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](felipecrivelli83@gmail.com)
 
 > 🚀 **Desenvolvedor em formação** | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e soluções criativas
 
