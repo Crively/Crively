@@ -25,7 +25,6 @@
 
 - 🐍 **Python**: Visão computacional e automação
 - ☕ **Java**: Spring Boot para APIs REST
-- 📱 **Mobile**: React Native avançado
 - 🗄️ **Banco de Dados**: Otimização de queries e modelagem
 
 ---
