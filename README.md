@@ -25,6 +25,7 @@
 
 - 🐍 **Python**: Visão computacional e automação
 - ☕ **Java**: Spring Boot para APIs REST
+- 🟣 **C# e .NET**: Desenvolvimento de APIs REST com ASP.NET Core
 - 🗄️ **Banco de Dados**: Otimização de queries e modelagem
 
 ---
